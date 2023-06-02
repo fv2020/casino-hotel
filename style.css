@@ -16,7 +16,6 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-bottom: 40px;
   padding: 40px;
   background-color: #f2f2f2;
 }
@@ -41,6 +40,7 @@ body {
   color: #555555;
   font-size: 16px;
   line-height: 24px;
+  margin-bottom: 0;
 }
 
 .about-image {
@@ -68,7 +68,7 @@ body {
 
 /* Table Section */
 .table-section {
-  padding: 40px 0;
+  padding: 20px 0;
 }
 
 .table-section h3 {
@@ -142,7 +142,6 @@ body {
 
 .table .score-value {
   font-weight: bold;
-  margin-top: 5px;
   color: #000;
   height: 10px;
 }
